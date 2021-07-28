@@ -1,0 +1,21 @@
+1. Pengertian prinsi single responsibility dan open closed serta keuntungannya
+- Prinsip single responsibilty merupakan sebuah prinsip dimana suatu class
+hanya memiliki satu fungsi atau tugas yang dijalankan. 
+Keuntungan dari single responsibility yakni source code lebih rapi dan membuat 
+code sistem lebih efisien dan responsive
+
+- Prinsip open closed merupakan sebuah prinsip dimana kita dapat menutup source code utama
+namun dapat diubah dengan menambah entitas  tanpa harus merubah sumber source code utama.
+Keuntungan dari open closed yakni dapat meminimalisir kerusakan sumber source code utama
+akibat dari pengubahan code
+
+2. https://github.com/dickysyahrio/hitung-usia/commit/721fc4b07c60b757b3365ac5d9f31a989fbb9701
+
+3. a.) jika menambahkan sebuah class baru kita dapat dengan mudah mengatur class class 
+tersebut karena pemanggilannya sudah terstruktur dan dan jika class
+baru yang mengimplements interface, 
+pemanggilan class class class_name implements interface_name
+
+b.) https://github.com/dickysyahrio/kalkulator-bangu-ruang/blob/main/kalkulator-bangun-ruang.php
+
+4. http://project-prpl2021.herokuapp.com/public/
